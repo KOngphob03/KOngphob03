@@ -1,11 +1,11 @@
 <h1 align="center">KONGPHOB THAIPHAT</h1>
-<p align="center">Student at KPRU • Full-stack Developer • Backend & AI Enthusiast</p>
+<p align="center">Student • Full-stack Developer • Backend & AI Enthusiast</p>
 
 ---
 
 ### About
 
-Currently studying at **Kamphaeng Phet Rajabhat University (KPRU)**  
+Currently studying at **(KPRU)**  
 Interested in full-stack development, backend systems, and always eager to learn more.
 
 ---
