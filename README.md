@@ -1,57 +1,64 @@
 <h1 align="center">KONGPHOB THAIPHAT</h1>
+<p align="center">Student at KPRU • Full-stack Developer • AI-assisted Builder</p>
+
 <p align="center">
-  Student at Kamphaeng Phet Rajabhat University (KPRU)<br>
-  Full-stack Developer • AI-assisted Builder
+  <a href="https://github.com/KOngphob03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  PHP • Python • React • Next.js • Elysia • PostgreSQL • MySQL • SQL Server • Azure • Git
+---
+
+### About Me
+
+I'm currently studying at **Kamphaeng Phet Rajabhat University (KPRU)**  
+and interested in building modern web applications, backend systems, and practical software projects.
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,react,nextjs,postgres,mysql,azure,git" />
+</p>
+
+**Also work with:**  
+Elysia • SQL Server • SQL
+
+---
+
+### AI Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLM-2D6CDF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-7A3EFF?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-## About
+### GitHub Stats
 
-I am currently studying at **Kamphaeng Phet Rajabhat University (KPRU)** and enjoy building modern web applications with a strong focus on clean structure, practical systems, and continuous learning.
-
-I work across frontend, backend, databases, and cloud-related tools, while also using AI tools to improve workflow, productivity, and development speed.
-
----
-
-## Stack
-
-**Languages & Frameworks**  
-PHP, Python, React, Next.js, Elysia
-
-**Databases**  
-PostgreSQL, MySQL, SQL Server, SQL
-
-**Tools & Cloud**  
-Azure, Git
-
-**AI Tools**  
-Claude, GPT, Gemini, Kimi, Copilot, GLM, Qwen
-
----
-
-## GitHub
-
-<p align="center">
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=KOngphob03&show_icons=true&theme=default&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOngphob03&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## Focus
+### Focus
 
-- Building full-stack applications
-- Improving backend and database design
-- Learning through real-world projects
-- Using AI to work faster and smarter
+- Full-stack development
+- Backend architecture
+- Database design
+- AI-assisted workflows
 
 ---
 
 <p align="center">
-  <a href="https://github.com/KOngphob03">GitHub</a>
+  <sub>Simple • Clean • Always Building</sub>
 </p>
