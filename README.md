@@ -1,11 +1,6 @@
 <h1 align="center">KONGPHOB THAIPHAT</h1>
 <p align="center">Student at KPRU • Full-stack Developer • AI-assisted Builder</p>
 
-<p align="center">
-  <a href="https://github.com/KOngphob03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -36,7 +31,6 @@ Elysia • SQL Server • SQL
   <img src="https://img.shields.io/badge/Kimi-111111?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/GLM-2D6CDF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-7A3EFF?style=flat-square&logoColor=white" />
 </p>
 
 ---
