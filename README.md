@@ -4,10 +4,10 @@
 
 ---
 
-### About Me
+### About
 
-I'm currently studying at **Kamphaeng Phet Rajabhat University (KPRU)**  
-and interested in building modern web applications, backend systems, and practical software projects.
+Currently studying at **Kamphaeng Phet Rajabhat University (KPRU)**  
+Interested in full-stack development, backend systems, and always eager to learn more.
 
 ---
 
