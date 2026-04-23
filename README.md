@@ -1,7 +1,6 @@
 <h1 align="center">KONGPHOB THAIPHAT</h1>
 <p align="center">Student at KPRU • Full-stack Developer • AI-assisted Builder</p>
 
-
 ---
 
 ### About
@@ -14,7 +13,7 @@ Interested in full-stack development, backend systems, and always eager to learn
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,react,nextjs,postgres,mysql,azure,git" />
+  <img src="https://skillicons.dev/icons?i=php,python,typescript,react,nextjs,bun,nodejs,postgres,mysql,azure,git" />
 </p>
 
 **Also work with:**  
@@ -31,6 +30,7 @@ Elysia • SQL Server • SQL
   <img src="https://img.shields.io/badge/Kimi-111111?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/GLM-2D6CDF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-7A3EFF?style=flat-square&logoColor=white" />
 </p>
 
 ---
