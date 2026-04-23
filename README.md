@@ -1,5 +1,5 @@
 <h1 align="center">KONGPHOB THAIPHAT</h1>
-<p align="center">Student at KPRU • Full-stack Developer • AI-assisted Builder</p>
+<p align="center">Student at KPRU • Full-stack Developer • Backend & AI Enthusiast</p>
 
 ---
 
