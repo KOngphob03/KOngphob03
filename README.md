@@ -35,15 +35,6 @@ Elysia • SQL Server • SQL
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KOngphob03&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOngphob03&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ### Focus
 
 - Full-stack development
